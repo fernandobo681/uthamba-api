@@ -1,0 +1,18 @@
+{
+  "name": "uthamba-api",
+  "version": "1.0.0",
+  "description": "API for e-commerce Uthamba",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Fernando Bolaños",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
